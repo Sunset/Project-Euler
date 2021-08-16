@@ -6,22 +6,21 @@ using System.Threading.Tasks;
 
 namespace ProjectEuler.Question1_20
 {
-    public class Question7
+    public class Question10
     {
         public long QuestionExecute()
         {
-            var count = 0;
-            var value = 1;
-            do
-            {
-                value++;
-                if (FindIfPrime(value))
-                {
-                    count++;
-                }
-            } while (count < 10001);
+            long primeAdditionTotal = 0;
 
-            return value;
+            for (long i = 2; i < 2000000; i++)
+            {
+                if (FindIfPrime(i))
+                {
+                    primeAdditionTotal += i;
+                }
+            }
+
+            return primeAdditionTotal;
         }
 
         public bool FindIfPrime(long i)

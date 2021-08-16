@@ -50,6 +50,9 @@
     <Compile Include="Question1_20\Question3.cs" />
     <Compile Include="Question1_20\Question4.cs" />
     <Compile Include="Question1_20\Question5.cs" />
+    <Compile Include="Question1_20\Question10.cs" />
+    <Compile Include="Question1_20\Question9.cs" />
+    <Compile Include="Question1_20\Question8.cs" />
     <Compile Include="Question1_20\Question7.cs" />
     <Compile Include="Question1_20\Question6.cs" />
   </ItemGroup>
