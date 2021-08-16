@@ -13,7 +13,7 @@ namespace ProjectEuler
             //Question1_20.Question1 question = new Question1_20.Question1();
             //Console.WriteLine("Answer is: " + question.QuestionExecute());
 
-            Question1_20.Question4 question = new Question1_20.Question4();
+            Question1_20.Question7 question = new Question1_20.Question7();
             Console.WriteLine("Answer is: " + question.QuestionExecute());
         }
     }

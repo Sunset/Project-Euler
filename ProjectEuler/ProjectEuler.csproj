@@ -49,6 +49,9 @@
     <Compile Include="Question1_20\Question2.cs" />
     <Compile Include="Question1_20\Question3.cs" />
     <Compile Include="Question1_20\Question4.cs" />
+    <Compile Include="Question1_20\Question5.cs" />
+    <Compile Include="Question1_20\Question7.cs" />
+    <Compile Include="Question1_20\Question6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
