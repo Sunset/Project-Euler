@@ -47,6 +47,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Question1_20\Question1.cs" />
+    <Compile Include="Question1_20\Question13.cs" />
     <Compile Include="Question1_20\Question2.cs" />
     <Compile Include="Question1_20\Question3.cs" />
     <Compile Include="Question1_20\Question4.cs" />
@@ -56,6 +57,7 @@
     <Compile Include="Question1_20\Question8.cs" />
     <Compile Include="Question1_20\Question7.cs" />
     <Compile Include="Question1_20\Question6.cs" />
+    <Compile Include="Question1_20\Question16.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
