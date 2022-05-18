@@ -58,12 +58,11 @@
     <Compile Include="Question1_20\Question7.cs" />
     <Compile Include="Question1_20\Question6.cs" />
     <Compile Include="Question1_20\Question16.cs" />
+    <Compile Include="Question21_40\Question30.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Question21_40\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

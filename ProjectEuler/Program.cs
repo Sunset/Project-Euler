@@ -10,7 +10,7 @@ namespace ProjectEuler
     {
         public static void Main(string[] args)
         {
-            Question1_20.Question9 question = new Question1_20.Question9();
+            Question21_40.Question30 question = new Question21_40.Question30();
             //question.QuestionExecute();
             Console.WriteLine("Answer is: " + question.QuestionExecute());
         }
