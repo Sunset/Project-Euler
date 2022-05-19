@@ -12,3 +12,11 @@ C:\Project\Sunset\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.csprojAssemb
 C:\Project\Sunset\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
 C:\Project\Sunset\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.exe
 C:\Project\Sunset\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+E:\Projects\Project-Euler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+E:\Projects\Project-Euler\ProjectEuler\bin\Debug\ProjectEuler.exe
+E:\Projects\Project-Euler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+E:\Projects\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.csproj.AssemblyReference.cache
+E:\Projects\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
+E:\Projects\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.exe
+E:\Projects\Project-Euler\ProjectEuler\obj\Debug\ProjectEuler.pdb

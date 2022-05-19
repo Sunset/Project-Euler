@@ -58,6 +58,7 @@
     <Compile Include="Question1_20\Question7.cs" />
     <Compile Include="Question1_20\Question6.cs" />
     <Compile Include="Question1_20\Question16.cs" />
+    <Compile Include="Question21_40\Question25.cs" />
     <Compile Include="Question21_40\Question30.cs" />
   </ItemGroup>
   <ItemGroup>
